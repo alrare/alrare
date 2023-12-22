@@ -3,7 +3,7 @@
 const Alex = {
   cloud: ['Azure', 'AWS']
   repository: ['DevOps', 'Git', 'GitHub']
-  code: ['C#', 'Python', 'Javasc  ript', 'HTML5', 'CSS3'],
+  code: ['C#', 'Python', 'Javascript', 'HTML5', 'CSS3'],
   tools: ['Docker', 'AKS'],
   backend: ['Microservices', 'API RestFull']
   frontend: ['Vue.js' 'Vuetify']
